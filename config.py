@@ -1,3 +1,3 @@
 # Configuration file to store sensitive information
 
-GENAI_API_KEY = "AIzaSyAUiaFtrGFNdflaMPV1h6-7gt63xBSn3ac"
+GENAI_API_KEY = "your_api_key_here"
