@@ -1,0 +1,10 @@
+streamlit
+google-generativeai
+opencv-python
+pyaudio
+SpeechRecognition
+pyttsx3
+gTTS
+playsound==1.2.2
+pyautogui
+pywin32
